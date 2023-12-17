@@ -1,7 +1,7 @@
 # ACLs-Standard-and-Extended
 
 <h2>Description</h2>
-On R1 and R2, configure OSPF, then standard and extended ACLs. Verify results.
+On R1 and R2, configure OSPF, then standard and extended ACLs. ACLs include denying hosts, subnets, DNS and HTTP/HTTPS. Verify results.
 
 <h2>Environments Used </h2>
 
